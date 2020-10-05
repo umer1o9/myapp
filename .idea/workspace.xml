@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8be5523-bd3d-4f50-9240-3f5162bf7dc0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,5 +18,11 @@
   </component>
   <component name="TaskManager">
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1601900743040">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1601900743040" />
   </component>
 </project>
